@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language name="English" id="en">
+    <!-- Group names -->
+    <headings>
+      <!-- Tab names -->
+      <!--
+      <heading name="SiteSettings">
+        <description>Site settings</description>
+      </heading>
+      -->
+    </headings>
+
+
+    <!-- Page types -->
+    <pagetypes>
+      <common>
+        <!-- Common and block properties -->
+        <!--
+        <property name="PageTitle">
+          <caption>Page title</caption>
+          <help>Custom title for the page (used as metadata in HTML for Google and as a browser tab title).</help>
+        </property>
+        -->
+        
+        
+        <!-- Image block -->
+        <!--
+        <property name="Description">
+          <caption>Description</caption>
+          <help>Short image description (usually used as "alt" attribute for images in HTML).</help>
+        </property>
+        -->
+        
+        <!-- Other blocks properties here... -->
+      </common>
+
+      
+      <!-- Pages with properties, grouped by tab -->
+      <!-- Front page -->
+      <!--
+      <pagetype name="FrontPage">
+        <name>Front page</name>
+        <description>The home page of the website</description>
+        <property name="Logo">
+          <caption>Logo</caption>
+          <help>Website logo shown in the header.</help>
+        </property>
+      </pagetype>
+      -->
+      
+      <!-- Other pages here... -->
+    </pagetypes>
+
+
+    <!-- Block types -->
+    <blocktypes>
+      <!-- Content block -->
+      <!--
+      <blocktype name="ContentBlock">
+        <name>Content block</name>
+        <description>A content block with rich text, media or action links</description>
+      </blocktype>
+      -->
+    </blocktypes>
+  </language>
+</languages>

@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<!--[if IE 8]>        <html lang="@ViewBag.Lang" class="lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="@ViewBag.Lang"><!--<![endif]-->
+<head>
+    <meta charset="utf-8" />
+    <title>EPiTemplate</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link href="~/gfx/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    @Styles.Render("~/bundles/css")
+    <!--[if lt IE 9]>@Scripts.Render("~/bundles/js/ext")<![endif]-->
+</head>
+<body>
+    @Html.RenderEPiServerQuickNavigator()
+    @Html.FullRefreshPropertiesMetaData()
+    <header>
+    </header>
+    <section role="main">
+        @RenderBody()
+    </section>
+    <footer>
+    </footer>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/js")
+</body>
+</html>
