@@ -7,7 +7,7 @@ namespace EpiTemplate.Content
 {
     public static class Tabs
     {
-        // Place custom tab names here
+        // Place custom tab names here (remember to register the in App_Start/EPiServerConfig.cs)
 
         //public const string SiteSettings = "SiteSettings";
     }
