@@ -275,7 +275,6 @@
   <ItemGroup>
     <Content Include="EPiServerLog.config" />
     <None Include="js\jquery\jquery-1.10.1.intellisense.js" />
-    <Content Include="default.htm" />
     <Content Include="gfx\favicon.ico" />
     <Content Include="IndexingService\IndexingService.svc" />
     <Content Include="js\ext\html5shiv.js" />
