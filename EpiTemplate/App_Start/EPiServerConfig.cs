@@ -8,7 +8,7 @@ using EPiServer.Framework.Initialization;
 using EPiServer.Security;
 using EPiServer.ServiceLocation;
 
-namespace EpiTemplate.App_Start
+namespace EPiTemplate.App_Start
 {
     [InitializableModule]
     [ModuleDependency(typeof(EPiServer.Web.InitializationModule))]

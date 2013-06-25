@@ -22,7 +22,7 @@ using System.Web.Http.Dependencies;
 using Microsoft.Practices.ServiceLocation;
 using StructureMap;
 
-namespace EpiTemplate.App_Start.StructureMap
+namespace EPiTemplate.App_Start.StructureMap
 {
     /// <summary>
     /// The structure map dependency scope.

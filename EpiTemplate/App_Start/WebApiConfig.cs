@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Http;
 
-namespace EpiTemplate.App_Start
+namespace EPiTemplate.App_Start
 {
     public static class WebApiConfig
     {

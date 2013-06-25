@@ -3,9 +3,9 @@ using System.Web.Http;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
-using EpiTemplate.App_Start;
+using EPiTemplate.App_Start;
 
-namespace EpiTemplate
+namespace EPiTemplate
 {
     public class Global : EPiServer.Global
     {

@@ -4,7 +4,7 @@ using EPiServer.Framework;
 using EPiServer.Framework.Initialization;
 using EPiServer.ServiceLocation;
 
-namespace EpiTemplate.App_Start.StructureMap
+namespace EPiTemplate.App_Start.StructureMap
 {
     [InitializableModule]
     [ModuleDependency(typeof(ServiceContainerInitialization))]

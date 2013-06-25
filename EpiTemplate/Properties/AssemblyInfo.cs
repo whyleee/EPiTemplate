@@ -1,10 +1,10 @@
 ﻿using System.Reflection;
 
 // General info about the product
-[assembly: AssemblyTitle("EpiTemplate")]
+[assembly: AssemblyTitle("EPiTemplate")]
 [assembly: AssemblyDescription("Common EPiServer 7 template for web projects")]
 [assembly: AssemblyCompany("Pavel Nezhencev")]
-[assembly: AssemblyProduct("EpiTemplate")]
+[assembly: AssemblyProduct("EPiTemplate")]
 [assembly: AssemblyCopyright("Copyright © Pavel Nezhencev 2013")]
 
 // Product version (use "1.0.*" for auto-increment)

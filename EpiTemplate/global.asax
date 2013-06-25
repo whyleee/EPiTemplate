@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Language="C#" Inherits="EpiTemplate.Global" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Language="C#" Inherits="EPiTemplate.Global" %>

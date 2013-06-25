@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using StructureMap.Configuration.DSL;
 
-namespace EpiTemplate.App_Start
+namespace EPiTemplate.App_Start
 {
     public class Bootstrapper
     {

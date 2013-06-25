@@ -18,7 +18,7 @@
 using System.Web.Http.Dependencies;
 using StructureMap;
 
-namespace EpiTemplate.App_Start.StructureMap
+namespace EPiTemplate.App_Start.StructureMap
 {
     /// <summary>
     /// The structure map dependency resolver.

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace EpiTemplate.Filters
+namespace EPiTemplate.Filters
 {
     public class HtmlLangFilter : ActionFilterAttribute
     {

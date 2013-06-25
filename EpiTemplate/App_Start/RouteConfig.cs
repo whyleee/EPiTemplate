@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace EpiTemplate.App_Start
+namespace EPiTemplate.App_Start
 {
     public class RouteConfig
     {

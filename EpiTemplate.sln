@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpiTemplate", "EpiTemplate\EpiTemplate.csproj", "{3D79ADE5-DADB-47D2-933D-E98F9773AFAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPiTemplate", "EPiTemplate\EPiTemplate.csproj", "{3D79ADE5-DADB-47D2-933D-E98F9773AFAD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{98499222-89E6-4D92-B80E-047CF7A9A24F}"
 	ProjectSection(SolutionItems) = preProject
