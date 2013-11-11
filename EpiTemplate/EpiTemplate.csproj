@@ -277,6 +277,7 @@
     <Content Include="EPiServerLog.config" />
     <Content Include="build.cmd" />
     <Content Include="install.ps1" />
+    <Content Include="install_utils.ps1" />
     <None Include="js\jquery\jquery-1.10.1.intellisense.js" />
     <Content Include="gfx\favicon.ico" />
     <Content Include="IndexingService\IndexingService.svc" />
@@ -304,7 +305,9 @@
     <Content Include="Views\_ViewStart.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\ConnectionStrings.config" />
+    <Content Include="App_Config\ConnectionStrings.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="App_Config\EPiServer.config" />
     <Content Include="App_Config\EPiServer.Framework.config" />
   </ItemGroup>
